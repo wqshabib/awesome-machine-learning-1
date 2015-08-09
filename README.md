@@ -8,13 +8,20 @@ Curated list of relevant machine learning articles.
 
 - [C++](#cpp)
     - [General-Purpose ML](#cpp-general-purpose)
+- [Datasets](#datasets)
 
 <!-- /MarkdownTOC -->
 
 <a name="cpp" />
-## C+=
+## C++
 
 <a name="cpp-general-purpose" />
 #### General-Purpose ML
 
 * [Caffe](http://caffe.berkeleyvision.org)  - deep learning framework
+
+<a name="datasets" />
+## Datasets
+
+* [UCI ML Repository](http://archive.ics.uci.edu/ml/)
+* [MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/)
