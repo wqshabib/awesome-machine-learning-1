@@ -11,7 +11,7 @@ List of machine learning articles, papers, books, etc., I find interesting.
 - [Datasets](#datasets)
 - [Articles](#articles)
 - [Kaggle](#kaggle) -->
-<!-- ACL, EMNLP for NLP and ICML,UAI, AISTATS for ML ////////////////////////////////////////////////////////////////////////////////////// -->
+<!-- ACL, EMNLP for NLP and ICML,UAI, AISTATS for ML -->
 <!-- /MarkdownTOC -->
 
 <!-- <a name="cpp" /> -->
@@ -31,8 +31,11 @@ List of machine learning articles, papers, books, etc., I find interesting.
 <!-- <a name="datasets" /> -->
 ## Datasets
 * [CIFAR-10 and CIFAR-100](http://www.cs.toronto.edu/~kriz/cifar.html)
+* [HN comments/stories (10million+)](https://hn-archive.appspot.com/)
 * [MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/)
 * [NYC TLC Trip Record Data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
+* [Quora: Where can I find large datasets open to the public?](http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
+* [Street View House Numbers (SVHN)](http://ufldl.stanford.edu/housenumbers/)
 * [UCI ML Repository](http://archive.ics.uci.edu/ml/)
 
 <!-- <a name="courses" /> -->
@@ -45,6 +48,7 @@ List of machine learning articles, papers, books, etc., I find interesting.
 <!-- <a name="book" /> -->
 ## Books
 * [Deep Learning - Bengio, Goodfellow, and Courville](http://www.iro.umontreal.ca/~bengioy/dlbook/)
+* [Machine Learning: A Probabilistic Perspective - Murphy](http://www.cs.ubc.ca/~murphyk/MLbook/)
 * [Pattern Recognition and Machine Learning - Christopher Bishop](http://research.microsoft.com/en-us/um/people/cmbishop/prml/index.htm)
 * [The Elements of Statistical Learning - Hastie, Tibshirani, and Friedman](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 
